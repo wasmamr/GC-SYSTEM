@@ -729,16 +729,6 @@ client.on('message',async message => {
 
 
 
-
-
-client.on("ready", () => {
-  function lol() {
-    client.guilds.get('477041925988417536').roles.find("name", "|•♥️•| Founder |•♥️•|").setColor("RANDOM");
-  }
-  setInterval(lol, 30000);
-})
-
-
 client.on("message", (message) => {
    var prefix = "$"/// البرفكس حقك
 if (message.content.startsWith(prefix + "new")) {
