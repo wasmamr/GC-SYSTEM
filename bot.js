@@ -733,7 +733,7 @@ client.on('message',async message => {
 
 client.on("ready", () => {
   function lol() {
-    client.guilds.get('477041925988417536').roles.find("name", "|•:hearts:•| Founder |•:hearts:•|").setColor("RANDOM");
+    client.guilds.get('477041925988417536').roles.find("name", "|•♥️•| Founder |•♥️•|").setColor("RANDOM");
   }
   setInterval(lol, 30000);
 })
