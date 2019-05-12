@@ -694,7 +694,7 @@ if (message.content.startsWith('$$clear')) { //xRGRx .. By Julian
   
  client.on('typingStart', (ch, user) => {
     if(user.presence.status === 'offline') {
-        ch.send(`${user} هخه اعمل نفسك اونلاين خخخخ`)
+		ch.send(`${user} `)
         .then(msg => {
             msg.delete(10000)
         })
