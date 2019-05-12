@@ -1,7 +1,8 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 client.on('ready', () => {
-client.user.setGame(`البرفيكس $ BY|ADAM|أدم#5810`,"https://www.twitch.tv/idk")
+client.user.setGame(`البرفيكس $ WESO#3590
+`,"https://www.twitch.tv/idk")
   console.log('---------------');
   console.log(' Bot Is Online')
   console.log('---------------')
@@ -271,7 +272,7 @@ client.on("message", message => {
                         
 💎$server  『معلومات عن السيرفر』                     
 
-💎$رابط   『لاخذ رابط السيرفير』
+
 
 💎$new  『لفتح تذكرا』
 
@@ -307,7 +308,8 @@ client.on("message", message => {
 
 💎『مصمم البوت』💎
 
-|ADAM|أدم#5810
+WESO#3590
+
 
 ● ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ● 
 
@@ -359,7 +361,8 @@ client.on("message", message => {
 	  
 💎『مصمم البوت』💎
 
-|ADAM|أدم#5810
+WESO#3590
+
  
 ● ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ● 
 
@@ -403,7 +406,8 @@ client.on("message", message => {
 ● ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ●   
 
 💎『مصمم البوت』💎
-|ADAM|أدم#5810
+WESO#3590
+
 
 ● ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ●   
 
