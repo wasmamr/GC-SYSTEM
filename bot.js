@@ -463,7 +463,7 @@ client.on("message", message => {
       .setColor("RANDOM")
       .addField("『Bot 1 | AngryMinersBOT』 『اسم البوت』", true)
       
-      .addField("『مصمم البوت À¥ㄒ#5810』", true)
+      .addField("『مصمم البوت WESO#35900』", true)
       
       .addField("『$help$』😘『اذا تبي جميع الاوامر مع اوامر اضافية』😵", true)
       
