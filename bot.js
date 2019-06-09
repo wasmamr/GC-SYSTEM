@@ -461,7 +461,7 @@ client.on("message", message => {
    message.react("😜")
   const embed = new Discord.RichEmbed()
       .setColor("RANDOM")
-      .addField("『Bot 1 | AngryMinersBOT』 『اسم البوت』", true)
+      .addField("『Bot 1 | System_BAD』 『اسم البوت』", true)
       
       .addField("『مصمم البوت WESO#35900』", true)
       
